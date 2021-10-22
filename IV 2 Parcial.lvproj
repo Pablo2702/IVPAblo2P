@@ -380,10 +380,7 @@
 				<Item Name="whitespace.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/whitespace.ctl"/>
 			</Item>
 			<Item Name="Generador.lvclass" Type="LVClass" URL="../Libraries/FGen/Generador/Generador.lvclass"/>
-			<Item Name="GeneradorAmplificado.lvclass" Type="LVClass" URL="../Libraries/FGen/GeneradorAmplificado/GeneradorAmplificado.lvclass"/>
-			<Item Name="Generate Waveform.vi" Type="VI" URL="../Libraries/FGen/Generador/Generate Waveform.vi"/>
 			<Item Name="lvanlys.dll" Type="Document" URL="/&lt;resource&gt;/lvanlys.dll"/>
-			<Item Name="Oscilloscope List Argument--cluster.ctl" Type="VI" URL="../Libraries/FGen/Oscilloscope List Argument--cluster.ctl"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
